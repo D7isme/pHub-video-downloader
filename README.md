@@ -1,6 +1,6 @@
 ## Instalation
  ```bash
-    git clone https://github.com/D7isme/pornhub-downloader.git
+    git clone https://github.com/D7isme/pornhub-video-downloader.git
  ```
  ```bash
     cd pornhub-downloader
