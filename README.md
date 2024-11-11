@@ -5,7 +5,7 @@
  ```bash
     cd pornhub-downloader
  ```
-```bash
+ ```bash
     npm install
  ```
 then go to line no 62 in app.js and change the video url there from the video you want to download.
