@@ -1,9 +1,9 @@
 ## Instalation
  ```bash
-    git clone https://github.com/D7isme/pornhub-video-downloader.git
+    git clone https://github.com/D7isme/pHub-video-downloader.git
  ```
  ```bash
-    cd pornhub-downloader
+    cd pHub-video-downloader
  ```
  ```bash
     npm install
